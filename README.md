@@ -1,3 +1,5 @@
+This repository has been archived and is no longer maintained.The code is provided for historical reference and may contain unpatched or unknown vulnerabilities. It should not be used in production systems.
+
 # Cloud.gov CF CLI Tools
 
 A Github action for using CF CLI tools while deploying and managing apps on [cloud.gov](https://cloud.gov).
